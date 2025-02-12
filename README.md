@@ -1,6 +1,6 @@
 **📌 Overview**
 
-ASK AITELA BOT is an AI-powered chatbot built using Streamlit that allows users to upload PDF documents and interact with them through a conversational interface. Users can ask questions about the content, summarize sections, extract key insights, and more.
+PDFs Chatbot is an AI-powered chatbot built using Streamlit that allows users to upload PDF documents and interact with them through a conversational interface. Users can ask questions about the content, summarize sections, extract key insights, and more.
 
 **🚀 Features**
 
