@@ -92,7 +92,7 @@ Create a pull request
 
 **📧 Contact**
 
-For questions or suggestions, feel free to open an issue or reach out via email: your-email@example.com
+For questions or suggestions, feel free to open an issue or reach out via email: nouhailaaitahmed1@gmail.com
 
 **📜 License**
 
